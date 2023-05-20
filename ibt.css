@@ -1,0 +1,25 @@
+.wrapper {
+    display:block;
+    text-align:center;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif ;
+    height:300px;
+    width:500px;
+    background-color: #52C8E4;
+    margin-left: auto;
+    margin-right:auto;
+    margin-top: 180px;
+    border-style: groove;
+}
+img {
+    height:100px;
+    width:100px;
+}
+body {
+    background-color: blue;
+}
+button {
+    color:white;
+    background-color: black;
+    border-style: dotted;
+    border-color: white;
+}
